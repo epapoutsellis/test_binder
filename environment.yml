@@ -4,15 +4,12 @@ channels:
   - oxfordcontrol
   - ccpi
   - conda-forge
-  - cvxgrp
-  - astra-toolbox
   - defaults
 dependencies:
   - tomophantom
   - notebook
   - nb_conda_kernels
   - cudatoolkit=9.0
-  - cil-astra
   - ccpi-regulariser
   - ipywidgets
   - plotly
